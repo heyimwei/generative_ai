@@ -16,24 +16,24 @@
 ### 測驗過程
 女友拿出一張照片，問我這是哪位韓國男星？
 
-![alt text](3_jpgs/5.jpg)
+![alt text](5.jpg)
 
 #### **女友給我的選項：**
 1. **金珉奎**
 
-![alt text](3_jpgs/1.jpg)
+![alt text](1.jpg)
 
 2. **崔宇植**
 
-![alt text](3_jpgs/2.jpg)
+![alt text](2.jpg)
 
 3. **朴敘俊**
 
-![alt text](3_jpgs/3.jpg)
+![alt text](3.jpg)
 
 4. **車銀優**
 
-![alt text](3_jpgs/4.jpg)
+![alt text](4.jpg)
 
 照片上的是：
 **正確答案：朴敘俊**  
