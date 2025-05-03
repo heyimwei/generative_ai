@@ -2,9 +2,10 @@
 
 實作RAG系統
 
-### 我的資料 taipei_dating_spots.txt
+### 我的資料 
 
-用以下格式記錄了10筆台北約會地點資料：
+放在 taipei_dating_spots.txt 中
+用以下格式記錄10筆台北約會地點資料：
 
 "地點名稱": "地點",
 
