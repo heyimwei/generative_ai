@@ -1,13 +1,6 @@
-# 作業七 
-
-實作RAG系統
-
-### 機器人設定
-
-![alt text](image.png)
-
-### 執行範例
-
-![alt text](image-1.png)
-
-![alt text](image-2.png)
+# generative_ai
+ 
+ - 姓名：簡暐軒
+ - 系級：資工 114
+ - 課程名稱：生成式AI：文字與圖像生成的原理與實務_國立臺灣師範大學衛星課程
+ - 修課學期：113-2
