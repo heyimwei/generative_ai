@@ -8,7 +8,7 @@
 
 ---
 
-## 🌃 夜晚的像素藝術城市
+## 🌃 夜晚的像素藝術城市 A pixel-art city at night with neon lights and busy streets
 
 ![夜晚的像素藝術城市-1](夜晚的像素藝術城市/夜晚的像素藝術城市-1.jpg)
 ![夜晚的像素藝術城市-2](夜晚的像素藝術城市/夜晚的像素藝術城市-2.jpg)
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚄 未來科技火車站
+## 🚄 未來科技火車站 A futuristic pixel train station with robots and vending machines
 
 ![未來科技火車站-1](未來科技火車站/未來科技火車站-1.jpg)
 ![未來科技火車站-2](未來科技火車站/未來科技火車站-2.jpg)
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧺 浣熊小狗在公園裡野餐
+## 🧺 浣熊小狗在公園裡野餐 A pixel art raccoon and a dog having a picnic in the park, blue sky and cherry blossom trees
 
 ![浣熊小狗在公園裡野餐-1](浣熊小狗在公園裡野餐/浣熊小狗在公園裡野餐-1.jpg)
 ![浣熊小狗在公園裡野餐-2](浣熊小狗在公園裡野餐/浣熊小狗在公園裡野餐-2.jpg)
@@ -35,7 +35,7 @@
 
 ---
 
-## 🏯 浣熊小狗探索神秘的廢墟
+## 🏯 浣熊小狗探索神秘的廢墟 A pixel raccoon and a dog exploring an ancient temple, holding torches, mysterious ruins
 
 ![浣熊小狗探索神秘的廢墟-1](浣熊小狗探索神秘的廢墟/浣熊小狗探索神秘的廢墟-1.jpg)
 ![浣熊小狗探索神秘的廢墟-2](浣熊小狗探索神秘的廢墟/浣熊小狗探索神秘的廢墟-2.jpg)
@@ -44,7 +44,7 @@
 
 ---
 
-## ☕ 溫暖舒適的咖啡店
+## ☕ 溫暖舒適的咖啡店 A cozy pixel art coffee shop interior, warm lighting, bookshelves
 
 ![溫暖舒適的咖啡店-1](溫暖舒適的咖啡店/溫暖舒適的咖啡店-1.jpg)
 ![溫暖舒適的咖啡店-2](溫暖舒適的咖啡店/溫暖舒適的咖啡店-2.jpg)
