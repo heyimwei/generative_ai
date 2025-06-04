@@ -12,14 +12,22 @@
 
 ---
 
-## 🚀 執行範例
-Prompt:抑鬱女子
+### 🎭 Prompt：抑鬱女子
+> 情緒壓抑、陰鬱光影、低飽和色調
 
-![alt text](圖片/image.png)
+<p align="center">
+  <img src="圖片/image.png" alt="抑鬱女子" width="70%">
+</p>
 
-Prompt:紋身女子
+---
 
-![alt text](圖片/image-1.png)
+### 🐉 Prompt：紋身女子
+> 強烈風格、視覺衝擊、冷酷氣質
+
+<p align="center">
+  <img src="圖片/image-1.png" alt="紋身女子" width="70%">
+</p>
+
 ---
 
 ## ✨ 提示詞增強設定（Positive Prompt）
