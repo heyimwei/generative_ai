@@ -138,18 +138,42 @@ GPT4O 線稿 → Fooocus Canny 輪廓偵測 → Prompt＋參數 → Inpaint 微�
 
 ```
 
-
 ### 圖例預覽
 
-> **組別一：程式開發者**
->![alt text](1/原圖_程式開發者.png)
->![alt text](1/Fooocus_程式開發者1.png)
+<div style="width:75%; margin:auto;">
 
-> **組別二：筆電與手機**
->![alt text](2/原圖_筆電與手機.png)
->![alt text](2/Fooocus_筆電與手機.png)
+  <!-- 組別一：程式開發者 -->
+  <div style="text-align:center; font-size:1.5em; font-weight:bold; margin-top:2em;">
+    組別一：程式開發者
+  </div>
+  <div style="text-align:center; margin-top:0.5em;">
+    <img src="1/原圖_程式開發者.png" alt="原圖_程式開發者" style="max-width:100%; height:auto; margin-bottom:1em;"><br>
+    <img src="1/Fooocus_程式開發者1.png" alt="Fooocus_程式開發者1" style="max-width:100%; height:auto;">
+  </div>
 
+  <!-- 分隔線或空白區隔 -->
+  <div style="border-top:2px solid #ccc; margin:3em 0;"></div>
 
-> **組別三：教學講師**
->![alt text](3/原圖_教學.png)
->![alt text](3/Fooocus_教學.png)
+  <!-- 組別二：筆電與手機 -->
+  <div style="text-align:center; font-size:1.5em; font-weight:bold; margin-top:2em;">
+    組別二：筆電與手機
+  </div>
+  <div style="text-align:center; margin-top:0.5em;">
+    <img src="2/原圖_筆電與手機.png" alt="原圖_筆電與手機" style="max-width:100%; height:auto; margin-bottom:1em;"><br>
+    <img src="2/Fooocus_筆電與手機.png" alt="Fooocus_筆電與手機" style="max-width:100%; height:auto;">
+  </div>
+
+  <!-- 分隔線或空白區隔 -->
+  <div style="border-top:2px solid #ccc; margin:3em 0;"></div>
+
+  <!-- 組別三：教學講師 -->
+  <div style="text-align:center; font-size:1.5em; font-weight:bold; margin-top:2em;">
+    組別三：教學講師
+  </div>
+  <div style="text-align:center; margin-top:0.5em; margin-bottom:2em;">
+    <img src="3/原圖_教學.png" alt="原圖_教學" style="max-width:100%; height:auto; margin-bottom:1em;"><br>
+    <img src="3/Fooocus_教學.png" alt="Fooocus_教學" style="max-width:100%; height:auto;">
+  </div>
+
+</div>
+
