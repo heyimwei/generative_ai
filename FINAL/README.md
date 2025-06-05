@@ -8,6 +8,12 @@
 
 ---
 
+## 線上執行範例 (Colab)
+你可以點擊下面的連結，直接在 Google Colab 上執行、編輯並觀看完整程式流程：  
+[在 Colab 中打開四格笑話產生器 Notebok](https://colab.research.google.com/drive/1WO-ltOjGetHZ-LHeq7yhgsd3iF36Y_AN?usp=sharing)
+
+---
+
 ## 主要成果展示
 - **comic_script.txt**  
   最終由 GPT-4 產出的四格笑話文字腳本（純文字檔）。  
